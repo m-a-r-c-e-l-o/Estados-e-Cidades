@@ -1,4 +1,4 @@
-window.onDomReady = function(fc){
+window.onDomReady = function DomReady(fc){
 	if(document.addEventListener)
 		document.addEventListener("DOMContentLoaded", fc, false);
 	else
